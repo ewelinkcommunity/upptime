@@ -6,7 +6,7 @@ sites:
   - name: eWeLink Community Website
     url: https://ewelinkcommunity.net
     check: "tcp-ping"
-    port: 443
+    port: 80
   - name: eWeLink server Europe
     check: "tcp-ping"
     url: $EWL_SERV_EU
