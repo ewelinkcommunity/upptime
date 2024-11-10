@@ -16,7 +16,7 @@ sites:
   - name: eWeLink server China
     check: "tcp-ping"
     url: $EWL_SERV_CN
-    port: $EWL_SERV_PORT
+    port: $EWL_SERVER_PORT_CN
   - name: eWeLink server Asia
     check: "tcp-ping"
     url: $EWL_SERV_ASIA
