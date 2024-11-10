@@ -29,7 +29,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: github.ewelinkcommunity.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: eWeLink Community Website uptime monitor
   logoUrl: https://ewelinkcommunity.net/wp-content/uploads/2020/07/ewelink-community-new-site-logo.png
   introTitle: "**eWeLink Community Website** is a community driven website about the eWeLink IoT infrastructure and devices."
