@@ -5,6 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: eWeLink Community Website
     url: https://ewelinkcommunity.net
+  - name: eWeLink server Europe
+    check: "tcp-ping"
+    url: $EWL_SERV_EU
+    port: $EWL_SERV_PORT
+  - name: eWeLink server America & Australia
+    check: "tcp-ping"
+    url: $EWL_SERV_USAU
+    port: $EWL_SERV_PORT
+  - name: eWeLink server China
+    check: "tcp-ping"
+    url: $EWL_SERV_CN
+    port: $EWL_SERV_PORT
+  - name: eWeLink server Asia
+    check: "tcp-ping"
+    url: $EWL_SERV_ASIA
+    port: $EWL_SERV_PORT
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
