@@ -4,18 +4,20 @@
     "url": "ewelinkcommunity.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-we-link-community-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 129,
-    "timeWeek": 113,
-    "timeMonth": 109,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 183,
+    "timeDay": 130,
+    "timeWeek": 119,
+    "timeMonth": 110,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2025-03-15": 0
+    }
   },
   {
     "name": "eWeLink server Europe",
@@ -30,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 140,
-    "timeWeek": 123,
-    "timeMonth": 117,
+    "timeWeek": 130,
+    "timeMonth": 119,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -48,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 34,
-    "timeWeek": 52,
-    "timeMonth": 57,
+    "timeWeek": 46,
+    "timeMonth": 55,
     "timeYear": 58,
     "dailyMinutesDown": {}
   },
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
+    "time": 204,
     "timeDay": 180,
-    "timeWeek": 198,
-    "timeMonth": 203,
-    "timeYear": 205,
+    "timeWeek": 192,
+    "timeMonth": 202,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 180,
-    "timeWeek": 198,
-    "timeMonth": 203,
-    "timeYear": 205,
+    "time": 204,
+    "timeDay": 179,
+    "timeWeek": 191,
+    "timeMonth": 202,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
