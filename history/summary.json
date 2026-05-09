@@ -4,9 +4,9 @@
     "url": "ewelinkcommunity.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-we-link-community-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "94.49%",
     "uptimeWeek": "90.06%",
     "uptimeMonth": "88.45%",
     "uptimeYear": "98.67%",
@@ -79,8 +79,7 @@
       "2025-11-16": 18,
       "2025-11-15": 22,
       "2025-11-07": 36,
-      "2025-10-11": 21,
-      "2025-07-05": 17
+      "2025-10-11": 21
     }
   },
   {
