@@ -4,19 +4,18 @@
     "url": "ewelinkcommunity.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-we-link-community-website",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "98.43%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "84.89%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "90.19%",
+    "uptimeYear": "98.42%",
     "time": 112,
-    "timeDay": 86,
-    "timeWeek": 116,
+    "timeDay": 85,
+    "timeWeek": 114,
     "timeMonth": 112,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-02-08": 33,
       "2026-02-14": 72,
       "2026-02-20": 19,
       "2026-02-23": 59,
@@ -70,7 +69,7 @@
       "2026-05-21": 160,
       "2026-05-22": 433,
       "2026-05-23": 99,
-      "2026-05-24": 12
+      "2026-05-24": 118
     }
   },
   {
